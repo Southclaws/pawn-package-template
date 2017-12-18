@@ -13,7 +13,7 @@
 > And finally, maintaining `VERSION`:
 >
 > * Follow [Semantic Versioning](https://semver.org/)
-> * When you release a new version, update `VERSION` and `git tag` it (use `make version` if you can)
+> * When you release a new version, update `VERSION` and `git tag` it (use `make release` if you can)
 > * Versioning is important for sampctl to use the version control features
 >
 > Happy Pawning!
