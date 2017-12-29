@@ -36,3 +36,10 @@ samp-npc
 # logs
 logs/
 server_log.txt
+
+#
+# Common files
+#
+
+*.sublime-workspace
+*.sublime-project
