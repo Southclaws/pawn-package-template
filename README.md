@@ -1,4 +1,6 @@
-# The title of your library here, either `library.inc` or `My Cool Library`
+# The title of your library here, either `{{.Repo}}.inc` or `My Cool Library`
+
+![sampctl](https://shields.southcla.ws/badge/sampctl-{{.Repo}}-2f2f2f.svg?style=for-the-badge)
 
 > Short description of your library, why it's useful, some examples, pictures or videos.
 >
@@ -23,19 +25,18 @@
 Simply install to your project:
 
 ```bash
-sampctl package install Owner/library
+sampctl package install {{.User}}/{{.Repo}}
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <library>
+#include <{{.Repo}}>
 ```
 
 ## Usage
 
-> Write your code documentation or examples here. If your library is documented in the source code, direct users there. If not, list your API and describe it well in this section.
-> If your library is passive and has no API, simply omit this section.
+> Write your code documentation or examples here. If your library is documented in the source code, direct users there. If not, list your API and describe it well in this section. If your library is passive and has no API, simply omit this section.
 
 ## Testing
 
