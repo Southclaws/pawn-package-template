@@ -14,18 +14,7 @@
                 "reveal": "silent",
                 "panel": "dedicated"
             },
-            "problemMatcher": {
-                "fileLocation": "absolute",
-                "pattern": [
-                    {
-                        "regexp": "^(.+):([0-9]+) \\((\\w+)\\) (.+)$",
-                        "file": 1,
-                        "location": 2,
-                        "severity": 3,
-                        "message": 4
-                    }
-                ]
-            }
+            "problemMatcher": "$sampctl"
         }
     ]
 }
