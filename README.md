@@ -1,6 +1,6 @@
 # The title of your library here, either `{{.Repo}}.inc` or `My Cool Library`
 
-![sampctl](https://shields.southcla.ws/badge/sampctl-{{.Repo}}-2f2f2f.svg?style=for-the-badge)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-{{.Repo}}-2f2f2f.svg?style=for-the-badge)](https://github.com/{{.User}}/{{.Repo}})
 
 > Short description of your library, why it's useful, some examples, pictures or videos.
 >
