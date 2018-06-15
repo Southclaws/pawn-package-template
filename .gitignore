@@ -38,12 +38,10 @@ samp-npc
 # logs
 logs/
 server_log.txt
+crashinfo.txt
 
 #
 # Common files
 #
 
 *.sublime-workspace
-
-# SAMP default crash dump
-crashinfo.txt
