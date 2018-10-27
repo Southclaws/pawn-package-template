@@ -42,12 +42,11 @@ Include in your code and begin using the library:
 
 ## Usage
 
-<!--
-Write your code documentation or examples here. If your library is documented in
-the source code, direct users there. If not, list your API and describe it well
-in this section. If your library is passive and has no API, simply omit this
-section.
--->
+That repository has pretty good usage. If you are going to start new gamemode script, you just
+```
+sampctl package install
+```
+that as it's mentioned above and you're all done.
 
 ## Testing
 
