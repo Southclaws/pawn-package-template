@@ -1,6 +1,6 @@
 # {{.Repo}}
 
-[![sampctl](https://shields.io/badge/sampctl-{{.RepoEscaped}}-2f2f2f.svg?style=for-the-badge)](https://github.com/{{.User}}/{{.Repo}})
+[![sampctl](https://img.shields.io/badge/sampctl-{{.RepoEscaped}}-2f2f2f.svg?style=for-the-badge)](https://github.com/{{.User}}/{{.Repo}})
 
 <!--
 Short description of your library, why it's useful, some examples, pictures or
